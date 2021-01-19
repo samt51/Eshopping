@@ -1,0 +1,14 @@
+/Users/samt51/Projects/E-Shopping/EShoopping-Business/bin/Debug/netcoreapp3.1/EShoopping-Business.deps.json
+/Users/samt51/Projects/E-Shopping/EShoopping-Business/bin/Debug/netcoreapp3.1/EShoopping-Business.dll
+/Users/samt51/Projects/E-Shopping/EShoopping-Business/bin/Debug/netcoreapp3.1/EShoopping-Business.pdb
+/Users/samt51/Projects/E-Shopping/EShoopping-Business/bin/Debug/netcoreapp3.1/EShopping-DataAccess.dll
+/Users/samt51/Projects/E-Shopping/EShoopping-Business/bin/Debug/netcoreapp3.1/EShopping-Entity.dll
+/Users/samt51/Projects/E-Shopping/EShoopping-Business/bin/Debug/netcoreapp3.1/EShopping-Entity.pdb
+/Users/samt51/Projects/E-Shopping/EShoopping-Business/bin/Debug/netcoreapp3.1/EShopping-DataAccess.pdb
+/Users/samt51/Projects/E-Shopping/EShoopping-Business/obj/Debug/netcoreapp3.1/EShoopping-Business.csprojAssemblyReference.cache
+/Users/samt51/Projects/E-Shopping/EShoopping-Business/obj/Debug/netcoreapp3.1/EShoopping-Business.AssemblyInfoInputs.cache
+/Users/samt51/Projects/E-Shopping/EShoopping-Business/obj/Debug/netcoreapp3.1/EShoopping-Business.AssemblyInfo.cs
+/Users/samt51/Projects/E-Shopping/EShoopping-Business/obj/Debug/netcoreapp3.1/EShoopping-Business.csproj.CoreCompileInputs.cache
+/Users/samt51/Projects/E-Shopping/EShoopping-Business/obj/Debug/netcoreapp3.1/EShoopping-Business.csproj.CopyComplete
+/Users/samt51/Projects/E-Shopping/EShoopping-Business/obj/Debug/netcoreapp3.1/EShoopping-Business.dll
+/Users/samt51/Projects/E-Shopping/EShoopping-Business/obj/Debug/netcoreapp3.1/EShoopping-Business.pdb

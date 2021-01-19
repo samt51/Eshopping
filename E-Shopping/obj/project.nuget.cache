@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rEPeX3DAJtnqp1UkraIruALxTKoPWO6QyOdYeGz1pETM/dWzBt36VbXCHlRnX6e1uq6RYarXUFLDm7WFPZoVpQ==",
+  "success": true,
+  "projectFilePath": "/Users/samt51/Projects/E-Shopping/E-Shopping/E-Shopping.csproj",
+  "expectedPackageFiles": [
+    "/Users/samt51/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.8/microsoft.aspnetcore.app.ref.3.1.8.nupkg.sha512"
+  ],
+  "logs": []
+}

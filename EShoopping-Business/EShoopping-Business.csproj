@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>EShoopping_Business</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Abstrack\" />
+    <Folder Include="Concrete\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\EShopping-Entity\EShopping-Entity.csproj" />
+    <ProjectReference Include="..\EShopping-DataAccess\EShopping-DataAccess.csproj">
+      <ReferenceSourceTarget>ProjectReference</ReferenceSourceTarget>
+    </ProjectReference>
+  </ItemGroup>
+</Project>

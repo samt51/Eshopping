@@ -1,0 +1,9 @@
+/Users/samt51/Projects/E-Shopping/EShopping-Entity/bin/Debug/netcoreapp3.1/EShopping-Entity.deps.json
+/Users/samt51/Projects/E-Shopping/EShopping-Entity/bin/Debug/netcoreapp3.1/EShopping-Entity.dll
+/Users/samt51/Projects/E-Shopping/EShopping-Entity/bin/Debug/netcoreapp3.1/EShopping-Entity.pdb
+/Users/samt51/Projects/E-Shopping/EShopping-Entity/obj/Debug/netcoreapp3.1/EShopping-Entity.csprojAssemblyReference.cache
+/Users/samt51/Projects/E-Shopping/EShopping-Entity/obj/Debug/netcoreapp3.1/EShopping-Entity.AssemblyInfoInputs.cache
+/Users/samt51/Projects/E-Shopping/EShopping-Entity/obj/Debug/netcoreapp3.1/EShopping-Entity.AssemblyInfo.cs
+/Users/samt51/Projects/E-Shopping/EShopping-Entity/obj/Debug/netcoreapp3.1/EShopping-Entity.csproj.CoreCompileInputs.cache
+/Users/samt51/Projects/E-Shopping/EShopping-Entity/obj/Debug/netcoreapp3.1/EShopping-Entity.dll
+/Users/samt51/Projects/E-Shopping/EShopping-Entity/obj/Debug/netcoreapp3.1/EShopping-Entity.pdb

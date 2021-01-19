@@ -1,0 +1,43 @@
+﻿@model CategoryListViewModel
+<h1>Admin Kategori</h1>
+
+<hr />
+
+
+@if (Model.Categories.Count()> 0)
+{
+
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <td style="width:30px;">Id</td>
+                <td style="width:100px;">Name</td>
+                <td style="width:150px;"></td>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.Categories)
+            {
+                <tr>
+                    <td>@item.CategoryID</td>
+                    <td>@item.CategoryName</td>
+                    <td>
+                        <a class="btn btn-primary btn-sm mr-2" href="/Admin/CategoryEdit/@item.CategoryID">Edit</a>
+                        <form action="/admin/categorydelete" method="post" style="display:inline;">
+                            <input type="hidden" name="categoryId" value="@item.CategoryID" />
+                            <button type="submit" class="btn btn-danger btn-sm">Delete</button>
+                        </form>
+                    </td>
+                </tr>
+            }
+
+        </tbody>
+
+    </table>
+}
+else
+{
+    <div class="alert alert-warning">
+        <h4>Herhangi Bir Kategori Bulunmamaktadır</h4>
+    </div>
+}
